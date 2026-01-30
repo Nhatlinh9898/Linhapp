@@ -1,0 +1,7 @@
+{
+  "name": "Copy of  THIEN MASTER APP",
+  "description": "Siêu ứng dụng kiến tạo nội dung Facebook/TikTok viral đẳng cấp thế giới. Tích hợp công nghệ lõi Gemini 2.5 Flash, viết content chuẩn Storytelling AIDA/PAS, tự động tạo ảnh minh họa 8K và Voice Studio Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
